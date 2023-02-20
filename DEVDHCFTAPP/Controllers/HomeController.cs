@@ -16,6 +16,7 @@ namespace DEVDHCFTAPP.Controllers
         public IActionResult Index()
         {
             return View();
+            string catest = "";
         }
 
         public IActionResult Privacy()
